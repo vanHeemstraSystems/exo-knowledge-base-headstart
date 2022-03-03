@@ -3,3 +3,5 @@ exo-knowledge-base-headstart
 
 Based on "Exo Knowledge Base" at https://github.com/exoplatform/
 
+See also "eXo Platform 5 Community Edition" at https://www.exoplatform.com/blog/how-proepi-and-the-unb-situation-room-use-exo-platform-to-respond-to-the-covid-19-pandemic/
+
